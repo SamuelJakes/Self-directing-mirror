@@ -27,6 +27,7 @@
 
 #include <stdio.h>
 #include "spa.h"  //include the SPA header file
+#include "spa.c"
 
 int main (int argc, char *argv[])
 {
